@@ -1,6 +1,6 @@
 from prime import find_factor
 from powmod import power_modulo
-from euklidian import inverse_modulo
+from Euclide import inverse_modulo
 from pollard import pollard
 
 

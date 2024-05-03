@@ -1,7 +1,7 @@
 import sys
 from prime import next_prime
 from powmod import power_modulo
-from euklidian import gcd, next_coprime
+from Euclide import gcd, next_coprime
 
 
 def compute_k(b: int) -> int:
